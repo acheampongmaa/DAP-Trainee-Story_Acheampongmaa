@@ -2,7 +2,7 @@
 
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+I 
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
@@ -14,13 +14,17 @@
 `Please add text here...`
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+Since joining the data analytics program, my progress in the tech field has been remarkable. Initially, I had limited knowledge in technology, but through the program, I have made significant strides and expanded my proficiency. Now, my understanding and competence in tech concepts have vastly improved, allowing me to navigate and utilize various tools and technologies relevant to data analytics. I have gained a solid foundation in tech skills and have become much more comfortable working with technical aspects related to data analysis. Overall, my progress in tech has been substantial, and I feel confident in my ability to effectively apply technological solutions in the field of data analytics.
 
 ## What are my plans for the future ?
-`Please add text here...`
+I have plans of immersing myself further in healthcare data analytics and ultimately becoming a proficient data manager. By delving deeper into healthcare data analytics, I aim to enhance my expertise in extracting valuable insights from healthcare data sets, uncovering patterns, and making informed decisions that can positively impact patient outcomes and healthcare systems as a whole.
+
+Simultaneously, I aspire to develop strong data management skills, encompassing the ability to organize, store, and protect data effectively, ensuring its quality and accessibility for analysis. By combining these two areas of focus, I am confident that I will be well-equipped to contribute meaningfully to the healthcare industry's ongoing transformation through data-driven insights and efficient data management practices.
 
 ## What is my dream company or role ?
-`Please add text here...`
+While I don't have a specific dream role or company in mind as a data analyst at the moment, I am genuinely excited about the prospect of leveraging my skills and knowledge in a dynamic and impactful environment. I am eager to work with a team that encourages innovation, values data-driven decision-making, and offers opportunities for continuous learning and professional growth. I am open to exploring different industries and sectors where data analytics can make a significant difference. 
+
+Ultimately, my goal is to contribute meaningfully to an organization that values the power of data and provides a collaborative and stimulating work culture. I am confident that with my passion for data analysis and willingness to adapt, I will find an ideal role and company where I can thrive and make a valuable impact.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
