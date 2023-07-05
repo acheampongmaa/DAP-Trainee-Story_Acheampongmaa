@@ -1,7 +1,5 @@
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+# 📈🧪 Data Analytics Program 🧠📊 : Story of *Queensly Kyerewaa Acheampongmaa*
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
 `Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
