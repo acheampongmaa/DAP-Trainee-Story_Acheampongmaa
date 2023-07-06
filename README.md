@@ -98,12 +98,12 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Store Sales Forcasting</td>
+<td> To build a model and an app that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.</td>
+<td> <a href=https://medium.com/@qacheampong/store-sales-time-series-forecasting-exploratory-data-analysis-part-1-54f245b6edac> Article</a> </td>
+<td> <a href=https://huggingface.co/spaces/Queensly/Store_Sales_Prediction_StreamlitApp>App with Streamlit</a> </td>
+<td> <a href=https://github.com/acheampongmaa/Regression-App-with-Streamlit/tree/main>App Repo</a>  </td>
+<td> <a href=https://github.com/acheampongmaa/Store-Sales-Time-Series-Forecasting>Project Repo</a></td>
 </tr>
 
 <tr>
