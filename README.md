@@ -98,7 +98,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>2</td>
-<td> Store Sales Forcasting</td>
+<td> Store Sales Time Series Forcasting</td>
 <td> To build a model and an app that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.</td>
 <td> <a href=https://medium.com/@qacheampong/store-sales-time-series-forecasting-exploratory-data-analysis-part-1-54f245b6edac> Article</a> </td>
 <td> <a href=https://huggingface.co/spaces/Queensly/Store_Sales_Prediction_StreamlitApp>App with Streamlit</a> </td>
@@ -108,12 +108,12 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Telcom Customer Churn Prediction </td>
+<td> To build a model and an app to predict customer churn in a Telcom company</td>
+<td> <a href=https://medium.com/@qacheampong/predicting-customer-churn-with-machine-learning-e49161271876>Article</a> </td>
+<td> <a href=https://huggingface.co/spaces/Queensly/Customer_Churn_Prediction_GradioApp>App with Gradio</a> </td>
+<td> <a href=https://github.com/acheampongmaa/Gradio-Classification-App/tree/main>App Repo</a> </td>
+<td> <a href=https://github.com/acheampongmaa/Telco-Customer-Churn-Analysis--Machine-Learning>Project Repo</a>   </td>
 </tr>
 
 <tr>
