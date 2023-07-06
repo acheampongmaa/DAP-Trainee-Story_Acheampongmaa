@@ -66,7 +66,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>3</td>
 <td> Tip Calculator </td>
-<td> To develop a tip calculator</td>
+<td> To develop a tip calculator using python </td>
 <td>  <a href=https://github.com/acheampongmaa/A-simple-python-program> Tip Calculator </a> </td>
 </tr>
 
