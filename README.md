@@ -38,7 +38,7 @@ While I don't have a specific dream role or company in mind as a data analyst at
 Ultimately, my goal is to contribute meaningfully to an organization that values the power of data and provides a collaborative and stimulating work culture. I am confident that with my passion for data analysis and willingness to adapt, I will find an ideal role and company where I can thrive and make a valuable impact.
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -74,7 +74,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
