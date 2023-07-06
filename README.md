@@ -58,8 +58,8 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
+<td> Bike Buyers Analysis </td>
+<td> To use MS Excel for analysis and also build a dashboard </td>
 <td> </td>
 </tr>
 
