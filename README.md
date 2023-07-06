@@ -128,12 +128,12 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Embedding a Machine Learning Model in FastAPI</td>
+<td>Develop a Machine Learning API (Application Programming Interface) using FastAPI. </td>
+<td> <a href=https://medium.com/@qacheampong/building-and-deploying-a-fastapi-app-with-hugging-face-9210e9b4a713> Article</a> </td>
+<td> <a href=https://huggingface.co/spaces/Queensly/FastAPI_in_Docker> FastAPI</a> </td>
+<td> <a href=https://github.com/acheampongmaa/Embedding-a-Machine-Learning-Model-into-a-Web-Application/tree/main/src>App Repo</a> </td>
+<td> <a href= https://github.com/acheampongmaa/Embedding-a-Machine-Learning-Model-into-a-Web-Application>Project Repo</a></td>
 </tr>
 
 <tr>
