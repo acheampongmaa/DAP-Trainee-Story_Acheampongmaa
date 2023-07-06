@@ -60,14 +60,14 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <td>2</td>
 <td> Bike Buyers Analysis </td>
 <td> To use MS Excel for analysis and build a dashboard </td>
-<td> <a href=https://github.com/acheampongmaa/Excel-projects/blob/main/image%20of%20dashboard%20bike%20buyers/dashboard.png> Bike Buyers Dashboard </td>
+<td> <a href=https://github.com/acheampongmaa/Excel-projects/blob/main/image%20of%20dashboard%20bike%20buyers/dashboard.png> Bike Buyers Dashboard </a> </td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Tip Calculator </td>
+<td> To develop a tip calculator</td>
+<td>  <a href=https://github.com/acheampongmaa/A-simple-python-program> Tip Calculator </a> </td>
 </tr>
 
 </tbody>
