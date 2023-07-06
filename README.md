@@ -13,8 +13,11 @@ I will describe my experience in the data analytics program as follows:
 * Transformative: The program has transformed my knowledge and skills, enabling me to effectively analyze and interpret data.
 * Invaluable: The skills and knowledge gained from the program are highly valuable in today's data-driven world.
 
-## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics? 
+
+* The  Career Accelerator phase enhanced my ability to think critically, approach problems analytically, and draw meaningful conclusions from data.
+* It also covered the latest trends, tools, and technologies in data analytics, keeping me up-to-date with industry advancements.
+* Finally, it has empowered me to confidently tackle complex data challenges and make informed decisions based on data-driven insights.
 
 ## What enticed me to join the Data Analytics Program?
 To remain current in my field of health information management, which is rapidly evolving in technology, I sought to acquire a tech skill that would enable me to stay relevant.
