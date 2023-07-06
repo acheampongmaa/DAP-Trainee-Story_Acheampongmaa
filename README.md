@@ -89,7 +89,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>1</td>
 <td> Indian Startup Ecosystem Analysis</td>
-<td>This analysis is to give insight to entrepreneurs who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing</td>
+<td>This analysis is to give insight to entrepreneurs who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing.</td>
 <td> <a href=https://medium.com/@qacheampong/introduction-75a7563d00ff>Article</a>    </td>
 <td> None </td>
 <td> None </td>
@@ -109,7 +109,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>3</td>
 <td>Telcom Customer Churn Prediction </td>
-<td> To build a model and an app to predict customer churn in a Telcom company</td>
+<td> To build a model and an app to predict customer churn in a Telcom company.</td>
 <td> <a href=https://medium.com/@qacheampong/predicting-customer-churn-with-machine-learning-e49161271876>Article</a> </td>
 <td> <a href=https://huggingface.co/spaces/Queensly/Customer_Churn_Prediction_GradioApp>App with Gradio</a> </td>
 <td> <a href=https://github.com/acheampongmaa/Gradio-Classification-App/tree/main>App Repo</a> </td>
@@ -119,7 +119,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>4</td>
 <td> Natural Language Processing </td>
-<td>Fine tuning a pre-trained hugging face model and deploying in hugging face </td>
+<td>Fine tuning a pre-trained hugging face model and deploying in hugging face. </td>
 <td> <a href=https://medium.com/@qacheampong/natural-language-processing-finetuning-a-pretrained-model-for-sentiment-analysis-using-covid19-97f51f5a68f7>Article</a> </td>
 <td> <a href=https://huggingface.co/spaces/Queensly/SentimentAnalysisApp>App with Gradio</a> </td>
 <td> <a href= https://github.com/acheampongmaa/Natural-Language-Processing-Project/blob/main/zindi_challenge/notebooks/gradio_app.ipynb>App Repo</a>  </td>
@@ -136,24 +136,15 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <td> <a href= https://github.com/acheampongmaa/Embedding-a-Machine-Learning-Model-into-a-Web-Application>Project Repo</a></td>
 </tr>
 
-<tr>
-<td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
 
 <tr>
 <td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Customer Churn Prediction </td>
+<td> To develop a machine learning model and build and app to predict the likelihood of each customer “churning,” i.e. becoming inactive and not making any transactions for 90 days. </td>
+<td> None </td>
+<td> <a href=https://huggingface.co/spaces/Queensly/Customer_Churn>App with Gradio</a> </td>
+<td> <a href=https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/blob/main/Team%20Serene%20Capstone%20Project%20Gradio%20App%20Notebook.ipynb>App Repo</a> </td>
+<td> <a href= https://github.com/acheampongmaa/Azubian-Customer-Churn-Prediction-Challenge/tree/main> Project Repo</</td>
 </tr>
 
 </tbody>
