@@ -88,12 +88,12 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td> Indian Startup Ecosystem Analysis</td>
+<td>This analysis is to give insight to entrepreneurs who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing</td>
+<td> <a href=https://medium.com/@qacheampong/introduction-75a7563d00ff>Article</a>    </td>
+<td> None </td>
+<td> None </td>
+<td> <a href=https://github.com/acheampongmaa/Indian-Startup-Analysis-2018---2021->Project Repo</a> </td>
 </tr>
 
 <tr>
