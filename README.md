@@ -162,45 +162,45 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+   There is no time for procrastinating. So far as you have conceived the thought and have the passion and desire, just go for it. 
 
-1. What did you think about the quality of teaching and level of assistance? 
+2. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+   They were very good.
 
-1. What did you like most about the program? 
+3. What did you like most about the program? 
 
-    `Reply here please.`
+  The lectures, teamwork,  career sessions, and engagement with industry experts.
 
-1. Are the lectures engaging and interesting? 
+4. Are the lectures engaging and interesting? 
 
   Yes, and they are very experienced.
 
-1. What happens if you miss a lecture? 
+5. What happens if you miss a lecture? 
 
   Lectures are recorded every time so I'm able to go back and replay.
 
-1. What do you think of the flexibility of the program? 
+6. What do you think of the flexibility of the program? 
 
    Personally, I think it's very good.
 
-1. Do the projects worked on help you test your ability/skills? 
+7. Do the projects worked on help you test your ability/skills? 
 
    Yes, they do.
 
-1. What will you change about the program if you had a chance? 
+8. What will you change about the program if you had a chance? 
 
     `Reply here please.`
 
-1. What do you think about the fees structure? 
+9. What do you think about the fees structure? 
 
    It's great. 
 
-1. Would you say Azubi Has Changed your life ? 
+10. Would you say Azubi Has Changed your life ? 
 
    Yes, it has.
 
-1. Do you think you have gained enough skills through our programme to land your dream job ? 
+11. Do you think you have gained enough skills through our programme to land your dream job ? 
 
     Yes, I have. 
 
