@@ -205,7 +205,6 @@ Yes, it has.
  Yes, I have. 
 
 
-## My Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/queensly-kyerewaa-acheampongmaa)
-[![Hugging Face Spaces](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/Queensly)
+## Contacts
 Email: qacheampong@gmail.com
+
