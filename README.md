@@ -50,9 +50,10 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td> LinkedIn Dashboard Analysis </td>
+<td> To Develop a dashboard using PowerBI</td>
+<td> <a href=https://app.powerbi.com/groups/me/reports/ec6cda66-1b22-494f-ad4e-4d00b3eeb25e/ReportSection> LinkedIn Dashboard </a> </td>
+
 </tr>
 
 <tr>
@@ -90,10 +91,11 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <td>1</td>
 <td> Indian Startup Ecosystem Analysis</td>
 <td>This analysis is to give insight to entrepreneurs who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing.</td>
-<td> <a href=https://medium.com/@qacheampong/introduction-75a7563d00ff>Article</a>    </td>
+<td> <a href=https://medium.com/@qacheampong/introduction-75a7563d00ff>Article</a> </td>
 <td> None </td>
 <td> None </td>
 <td> <a href=https://github.com/acheampongmaa/Indian-Startup-Analysis-2018---2021->Project Repo</a> </td>
+
 </tr>
 
 <tr>
