@@ -174,19 +174,19 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+  Yes, and they are very experienced.
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+  Lectures are recorded every time so I'm able to go back and replay.
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+   Personally, I think it's very good.
 
-1. Do the projects worked on help you test your ability / skills? 
+1. Do the projects worked on help you test your ability/skills? 
 
-    `Reply here please.`
+   Yes, they do.
 
 1. What will you change about the program if you had a chance? 
 
@@ -194,15 +194,15 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+   It's great. 
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+   Yes, it has.
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    Yes, I have. 
 
 
 ## My Contacts
