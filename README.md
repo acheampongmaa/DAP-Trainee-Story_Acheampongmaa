@@ -2,7 +2,7 @@
 
 
 ## Let me introduce Myself
-I 
+I graduated from the University of Cape Coast in 2021. After graduating, I did the mandatory national service at the University of Cape Coast where I worked as a teaching assistant at the Department of Medical Education and IT and also as a health information officer at the Directorate of University Health Services (UCC Hospital).
 
 ## How would I describe my experience in the data analytics program? 
 I will describe my experience in the data analytics program as follows:
@@ -32,7 +32,7 @@ I have plans of immersing myself further in healthcare data analytics and ultima
 
 Simultaneously, I aspire to develop strong data management skills, encompassing the ability to organize, store, and protect data effectively, ensuring its quality and accessibility for analysis. By combining these two areas of focus, I am confident that I will be well-equipped to contribute meaningfully to the healthcare industry's ongoing transformation through data-driven insights and efficient data management practices.
 
-## What is my dream company or role ?
+## What is my dream company or role?
 While I don't have a specific dream role or company in mind as a data analyst at the moment, I am genuinely excited about the prospect of leveraging my skills and knowledge in a dynamic and impactful environment. I am eager to work with a team that encourages innovation, values data-driven decision-making, and offers opportunities for continuous learning and professional growth. I am open to exploring different industries and sectors where data analytics can make a significant difference. 
 
 Ultimately, my goal is to contribute meaningfully to an organization that values the power of data and provides a collaborative and stimulating work culture. I am confident that with my passion for data analysis and willingness to adapt, I will find an ideal role and company where I can thrive and make a valuable impact.
