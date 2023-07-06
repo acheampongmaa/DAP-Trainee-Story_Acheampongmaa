@@ -118,12 +118,12 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 
 <tr>
 <td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Natural Language Processing </td>
+<td>Fine tuning a pre-trained hugging face model and deploying in hugging face </td>
+<td> <a href=https://medium.com/@qacheampong/natural-language-processing-finetuning-a-pretrained-model-for-sentiment-analysis-using-covid19-97f51f5a68f7>Article</a> </td>
+<td> <a href=https://huggingface.co/spaces/Queensly/SentimentAnalysisApp>App with Gradio</a> </td>
+<td> <a href= https://github.com/acheampongmaa/Natural-Language-Processing-Project/blob/main/zindi_challenge/notebooks/gradio_app.ipynb>App Repo</a>  </td>
+<td> <a href=https://github.com/acheampongmaa/Natural-Language-Processing-Project>Project Repo</a> </td>
 </tr>
 
 <tr>
