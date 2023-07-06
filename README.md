@@ -51,7 +51,7 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>1</td>
 <td> LinkedIn Dashboard Analysis </td>
-<td> To Develop a dashboard using PowerBI</td>
+<td> To develop a dashboard using PowerBI</td>
 <td> <a href=https://app.powerbi.com/groups/me/reports/ec6cda66-1b22-494f-ad4e-4d00b3eeb25e/ReportSection> LinkedIn Dashboard </a> </td>
 
 </tr>
@@ -59,8 +59,8 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 <tr>
 <td>2</td>
 <td> Bike Buyers Analysis </td>
-<td> To use MS Excel for analysis and also build a dashboard </td>
-<td> </td>
+<td> To use MS Excel for analysis and build a dashboard </td>
+<td> <a href=https://github.com/acheampongmaa/Excel-projects/blob/main/image%20of%20dashboard%20bike%20buyers/dashboard.png> Bike Buyers Dashboard </td>
 </tr>
 
 <tr>
