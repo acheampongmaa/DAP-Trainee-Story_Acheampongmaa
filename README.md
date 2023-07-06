@@ -162,51 +162,50 @@ Ultimately, my goal is to contribute meaningfully to an organization that values
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-   There is no time for procrastinating. So far as you have conceived the thought and have the passion and desire, just go for it. 
+There are lots of possibilities with tech so if you have the passion and desire, just go for it.
 
 2. What did you think about the quality of teaching and level of assistance? 
 
-   They were very good.
+They were very good.
 
 3. What did you like most about the program? 
 
-  The lectures, teamwork,  career sessions, and engagement with industry experts.
+The lectures, teamwork,  career sessions, and engagement with industry experts.
 
 4. Are the lectures engaging and interesting? 
 
-  Yes, and they are very experienced.
+Yes, and they are very experienced.
 
 5. What happens if you miss a lecture? 
 
-  Lectures are recorded every time so I'm able to go back and replay.
+Lectures are recorded every time so I'm able to go back and replay.
 
 6. What do you think of the flexibility of the program? 
 
-   Personally, I think it's very good.
+Personally, I think it's very good.
 
 7. Do the projects worked on help you test your ability/skills? 
 
-   Yes, they do.
+Yes, they do.
 
 8. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+After going through phase one of the program, I will look out for those who want to go into data analytics and those who want to go into data science. So it will be one cohort but two groups, each with unique projects to their specified field. 
 
-9. What do you think about the fees structure? 
+9. What do you think about the fee structure? 
 
-   It's great. 
+It's great. 
 
-10. Would you say Azubi Has Changed your life ? 
+10. Would you say Azubi Has Changed your life? 
 
-   Yes, it has.
+Yes, it has.
 
-11. Do you think you have gained enough skills through our programme to land your dream job ? 
+11. Do you think you have gained enough skills through our program to land your dream job? 
 
-    Yes, I have. 
+ Yes, I have. 
 
 
 ## My Contacts
-`Please add your contacts here...`
-
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/queensly-kyerewaa-acheampongmaa)
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging-Face-yellow)](https://huggingface.co/Queensly)
+Email: qacheampong@gmail.com
