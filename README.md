@@ -4,17 +4,25 @@
 ## Let me introduce Myself
 I 
 
-## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+## How would I describe my experience in the data analytics program? 
+I will describe my experience in the data analytics program as follows:
+
+* Comprehensive: The data analytics program provided me with a thorough understanding of data analytics principles and techniques.
+* Practical: It emphasized hands-on experience and practical application of data analytics concepts.
+* Collaborative: I worked with a diverse group of individuals, fostering collaboration and teamwork in data analytics projects.
+* Transformative: The program has transformed my knowledge and skills, enabling me to effectively analyze and interpret data.
+* Invaluable: The skills and knowledge gained from the program are highly valuable in today's data-driven world.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
 `Please add text here...`
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+To remain current in my field of health information management, which is rapidly evolving in technology, I sought to acquire a tech skill that would enable me to stay relevant.
 
 ## What would I say my progress in tech has been since joining the program ? 
-Since joining the data analytics program, my progress in the tech field has been remarkable. Initially, I had limited knowledge in technology, but through the program, I have made significant strides and expanded my proficiency. Now, my understanding and competence in tech concepts have vastly improved, allowing me to navigate and utilize various tools and technologies relevant to data analytics. I have gained a solid foundation in tech skills and have become much more comfortable working with technical aspects related to data analysis. Overall, my progress in tech has been substantial, and I feel confident in my ability to effectively apply technological solutions in the field of data analytics.
+Since joining the data analytics program, my progress in the tech field has been remarkable. Initially, I had limited knowledge in technology, but through the program, I have made significant progress and expanded my proficiency.
+
+Now, my understanding and competence in tech concepts have vastly improved, allowing me to navigate and utilize various tools and technologies relevant to data analytics. I have become much more comfortable working with technical aspects related to data analysis. Overall, my progress in tech has been substantial, and I feel confident in my ability to effectively apply technological solutions in the field of data analytics.
 
 ## What are my plans for the future ?
 I have plans of immersing myself further in healthcare data analytics and ultimately becoming a proficient data manager. By delving deeper into healthcare data analytics, I aim to enhance my expertise in extracting valuable insights from healthcare data sets, uncovering patterns, and making informed decisions that can positively impact patient outcomes and healthcare systems as a whole.
