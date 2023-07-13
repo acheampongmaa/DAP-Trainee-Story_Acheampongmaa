@@ -183,7 +183,7 @@ Yes, they do.
 
 8. What will you change about the program if you had a chance? 
 
-After going through phase one of the program, I will look out for those who want to go into data analytics and those who want to go into data science. So it will be one cohort but two groups, each with unique projects to their specified field. 
+After going through phase one of the program, I will look out for those who want to go into data analytics and those who want to go into data science. So it will be one cohort but two groups, each with unique projects to their specified field. Also, giving opportunities to have internships in a real-world setting.
 
 9. What do you think about the fee structure? 
 
